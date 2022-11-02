@@ -1,0 +1,27 @@
+.obsada1 {
+    margin-left: 20px;
+    width: 95%;
+}
+
+.aktorbox {
+    display: flex;
+    border: 2px solid orange;
+    margin-bottom: 10px;
+}
+
+.boxaktor2 {
+    margin-left: 0;
+    border: 2px solid red;
+}
+
+.opis-aktora{
+    border: 2px solid green;
+  
+}
+.jpg-aktora {
+    border: 3px solid blue;
+    
+}
+
+
+
